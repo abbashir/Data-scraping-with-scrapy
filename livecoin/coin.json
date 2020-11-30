@@ -1,0 +1,33 @@
+[
+  {
+    "currency pair": "LTC/BTC",
+    "volume(24h)": "14 654.26 LTC"
+  },
+  {
+    "currency pair": "LTC/USD",
+    "volume(24h)": "1 507.61 LTC"
+  },
+  {
+    "currency pair": "LTC/USDT",
+    "volume(24h)": "0.73 LTC"
+  },
+  {
+    "currency pair": "XSN/LTC",
+    "volume(24h)": "0.04 LTC"
+  },
+  {
+    "currency pair": "DIG/LTC",
+    "volume(24h)": "0.00 LTC"
+  },
+  {
+    "currency pair": "RBM/LTC",
+    "volume(24h)": "0.00 LTC"
+  }
+][
+{"currency pair": "LTC/BTC", "volume(24h)": "14 654.26 LTC"},
+{"currency pair": "LTC/USD", "volume(24h)": "1 507.61 LTC"},
+{"currency pair": "LTC/USDT", "volume(24h)": "0.73 LTC"},
+{"currency pair": "XSN/LTC", "volume(24h)": "0.04 LTC"},
+{"currency pair": "DIG/LTC", "volume(24h)": "0.00 LTC"},
+{"currency pair": "RBM/LTC", "volume(24h)": "0.00 LTC"}
+]
